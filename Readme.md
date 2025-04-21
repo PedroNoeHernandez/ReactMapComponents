@@ -68,7 +68,8 @@ Revisa la siguiente documentación:  [props react doc](https://react.dev/learn/p
 
 3.2 Implementa las siguientes propiedades: ```image``` en la imagen de la crad, ```title``` para la etiqueta h5, ```paragraph``` para la etiqueta p y ```productRef``` para la referencia del botón
 
-> [!IMPORTANT] pon el valor que está actualmente como ek valor por default
+> [!IMPORTANT]
+> Pon el valor que está actualmente como ek valor por default
 
 ```jsx
 import imgDefault from './assets/react.svg'
@@ -118,6 +119,3 @@ git push origin main
 
  > [!TIP]
  > Documentación ejemplos tailwind react: https://tailwindcss.com/plus/ui-blocks/preview
-
- ### 4. Reto
-

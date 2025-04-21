@@ -1,4 +1,4 @@
-# Laboratorio React y tailwind
+# Laboratorio propiedades de un componente y map
 
 Este laboratorio tiene el objetivo demostrar como cargar hacer un map dinámico de compnentes
 ## Requisitos Previos
